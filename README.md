@@ -1,3 +1,5 @@
 # hello-world
 Practise Repo
-Wab
+
+Removed WAB word above and added this current sentence.
+Current changes were made locally.
