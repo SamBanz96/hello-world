@@ -1,13 +1,13 @@
-#include stdio.h
-#include math.h
+#include <iostream> 
+#include "math.h"
 
-using namespace std
+using namespace std;
 
 int main()
 {
   int x=4;
   int y=5;
-  in z;
+  int z;
   z=x+y;
   cout<<z<<endl;
 }
